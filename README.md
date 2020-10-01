@@ -1,11 +1,11 @@
 ![EchaloASuerte](https://raw.githubusercontent.com/etcaterva/EchaloASuerte/master/static/img/brand/brand_es.png) / ![ChooseRandom](https://raw.githubusercontent.com/etcaterva/EchaloASuerte/master/static/img/brand/brand_en.png)
 =============
 Echaloasuerte/ChooseRandom is a simple website that allows people to take
-decisions base on random factors.
+decisions based on random factors.
 
-It gives you random numbers, chose an random element from a list, flip a coin to
+It gives you random numbers, chose a random element from a list, flip a coin to
 the air, etc... and one of the nicest features is that several people can see
-the result at the same time, which make the site great to perform draws with
+the result at the same time, which makes the site great to perform draws with
 people that are not physically together.
 
 This version is a rewrite of the old site.
